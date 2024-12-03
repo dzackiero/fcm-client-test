@@ -1,0 +1,11 @@
+{
+  "firebaseConfig": {
+    "apiKey": "AIzaSyDtRCZFp0QBTZObnnOymwpQJJRqy_GVsPU",
+    "authDomain": "dzackiero-projects.firebaseapp.com",
+    "projectId": "dzackiero-projects",
+    "storageBucket": "dzackiero-projects.firebasestorage.app",
+    "messagingSenderId": "754632944219",
+    "appId": "1:754632944219:web:a26a185b9c96aa71b16d7e",
+    "vapidKey": "BKyrWcffQv_XhAri_g8VMx9dgVJbe0jxXLKbQ0jeCdbXesaiNPJeluto4YK2aQRvaH8DeVn9w-s6I_17pjm1iWM"
+  }
+}
